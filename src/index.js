@@ -1,5 +1,5 @@
 /* global document, console, bootstrap */
-import reference_db from "./database/reference_db.js";
+import reference_db from "./database/reference_db";
 
 //Initialise addon global variables
 const ref_DB = [...reference_db]; //copy database into addon global variable
